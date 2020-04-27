@@ -60,7 +60,7 @@ public class CardStack
     //-----------------------------------------------------------------
     public boolean removeCard(Card c)
     {
-        //System.out.println("removing from stack ... "+c);
+        System.out.println("removing from stack ... "+c);
         return stack.remove(c);
     }
     
