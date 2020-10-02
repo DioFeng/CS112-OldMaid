@@ -14,8 +14,14 @@ April 27th
 -	Exception handling included.
 -	Allows players to either play with the same players again or play with different players after done.
 
-#5. OUTSIDE SOURCES / HELP:
-
+#5. Codes
+-	Driver code: OldMaid.java
+-	Card.java - instantiate 52 cards
+-	CardStack.java - instantiate a deck of cards and helper methods
+-	Deck.java - assign values to the deck
+-	OldMaidHand.java - generate deck of cards for the desired amount of player
+-	player.java - instantiate player's basic information
+-	OldMaidPlayer.java - subclass of Player.java
 
 #6. MESSAGE FOR TA GRADER:
 wrote over 1400 lines of code in the weekend 🤣
